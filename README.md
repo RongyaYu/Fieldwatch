@@ -1,3 +1,11 @@
+ldwatch 是一款 Android 平台上的开源射频观察工具，以纯被动监听的方式呈现手机周围的 Wi-Fi 接入点与蓝牙 LE 广播，帮你弄清身边有哪些无线设备在活动；
+
+如蓝牙追踪器、执法记录仪、天上飞的无人机、智能眼镜这类设备的信号，内置签名库覆盖 240 多种信号特征。
+
+github.com/OffGridPete/Fi…
+
+
+
 # Fieldwatch
 
 I built Fieldwatch as a personal tool to look at what Wi-Fi access points and Bluetooth LE ads my phone was able to pick up, so that I could better understand what devices were being used around me. It’s passive, it only listens, there’s no dongle, no account, and no backend server. I wanted something that would work offline in the field.
